@@ -1,16 +1,3 @@
-# zaad
+# Zaad Almo2men
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Zaad Almo2men (زاد المؤمن) is designed to support Muslims in their prayers. It offers prayer recordings for easy follow-along and includes a Tasbehaat counter for tracking recitations. The app supports both light and dark modes for enhanced usability and provides a smooth experience across mobile and web platforms.
